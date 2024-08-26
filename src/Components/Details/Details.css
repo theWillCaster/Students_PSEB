@@ -1,0 +1,99 @@
+.v-container img-container{
+    border: 8px solid rgb(232, 232, 232 / 93%);
+}
+
+.v-container>div{
+    flex: 1;
+}
+
+.v-right{
+    gap: 0.5rem;
+}
+
+.accordion{
+    margin-top: 2rem;
+    border: none;
+}
+
+.accordionItem{
+    background: white;
+    border: 0.8px solid rgba(128, 128, 128, 0.143);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px; 
+    width: calc(100% - 40px);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.accordionItem.expanded{
+    box-shadow: var(--shadow);
+    border-radius: 6px;
+}
+
+.accordionButton{
+    background: white;
+    padding: 1rem;
+    width: 1100px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.icon{
+    padding: 10px 10px;
+    background: #EEEEFF;
+    border-radius: 5px;
+}
+
+.icon svg{
+    fill: var(--blue);
+}
+
+.accordionButton .primaryText{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+}
+
+.accPanel .secondaryText{
+    font-size: 1.2rem;
+}
+
+.accPanel{
+    overflow: hidden; 
+}
+
+.accPanel>img{
+    float: right;
+    max-width: 25%;
+    margin: 0 0 10px 10px;
+}
+
+
+
+
+/* PAGINETION */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination-button {
+    margin: 0 5px;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+  
+  .pagination-button.active {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+  }
+  

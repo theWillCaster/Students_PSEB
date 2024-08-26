@@ -1,38 +1,2228 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Junaid Ajmal",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "2.68",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Sameer Ahmed",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.43",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Awais Mehmood",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "2.33",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Shaheer Hussain",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.21",    
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Malik Ammar",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "2.59",    
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Rohan Elahi",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "2.48",    
     "image": "./r3.png"
+  },
+  {
+    "name": "Shaheer Hussain",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.21",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Khan",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Ali",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.67",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Zahra",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "3.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mohammad Ahmed",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Malik",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Sheikh",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Yasir",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.88",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zainab Bukhari",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ali",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Ahmed",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "2.67",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Sheikh",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zain Ali",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asma Farooq",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Nawaz",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "2.88",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Khan",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zara Malik",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Asghar",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "2.78",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rabia Zahid",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Raza",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmad Hassan",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "2.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maria Shaikh",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Haris Khan",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Amna Aziz",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hammad Ali",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Javed",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Samira Malik",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Musa Tariq",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aqsa Raza",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Umer Farooq",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Alina Ahmed",
+    "class": "Class C",
+    "semester": "Semester 8",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Malik",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saba Shah",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Faizan Ali",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Khan",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "3.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mansoor Ahmed",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "2.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kiran Sheikh",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Aslam",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sadia Malik",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hussain Shah",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "2.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Yasir Ali",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fahad Khan",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Malik",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saad Ahmed",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maira Hassan",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Nawaz",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Ahmed",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Farooq",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mubashir Sheikh",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Khan",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Tariq",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "2.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saira Khan",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saad Ali",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Imran Sheikh",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Malik",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zain Shah",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mansoor Khan",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rabia Ali",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Haris Sheikh",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Farooq",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Waqas Ahmed",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sadia Farooq",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Shah",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Ahmed",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "3.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Farooq",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mansoor Ahmed",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sami Khan",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Tariq",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "2.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Ahmed",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "3.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sadaf Malik",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Ali",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asma Farooq",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Khan",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Malik",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Shah",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rabia Khan",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "3.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Faizan Ali",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "2.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Khan",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sami Ahmed",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "3.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maira Shaikh",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Farooq",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Khan",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Sheikh",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Umer Ali",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "2.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Malik",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "3.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zain Ali",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Khan",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Farooq",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Sheikh",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Tariq",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aqsa Malik",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Ahmed",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Ali",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Umer Malik",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saba Khan",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Waqas Sheikh",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Farooq",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Ali",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mansoor Sheikh",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "2.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aqsa Ali",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Khan",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "3.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Sheikh",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rabia Malik",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ahmed",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Sheikh",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "3.60",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Farooq",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Faizan Khan",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Ali",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maira Malik",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Farooq",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Khan",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Ahmed",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Waqas Ali",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aqsa Sheikh",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Farooq",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Malik",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Tariq",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Ahmed",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Shah",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Malik",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "2.65",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Waqas Khan",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Sheikh",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Ahmed",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sophie Malik",
+    "class": "Class E",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zaid Khan",
+    "class": "Class E",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Layla Ahmed",
+    "class": "Class E",
+    "semester": "Semester 3",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Malik",
+    "class": "Class E",
+    "semester": "Semester 4",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class E",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Farooq",
+    "class": "Class E",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Noor Ali",
+    "class": "Class E",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Tariq",
+    "class": "Class E",
+    "semester": "Semester 8",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Ali",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mona Khan",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Ahmed",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Malik",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khan Ahmed",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Laila Tariq",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ammar Khan",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fariha Ahmed",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ahmed",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Ali",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ishaq Khan",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Malik",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Ali",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zain Ali",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fariha Khan",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Tariq",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Malik",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmed Tariq",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Khan",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ali",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Ahmed",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sophie Khan",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Javed Malik",
+    "class": "Class C",
+    "semester": "Semester 8",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hadiya Malik",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Muneeb Ali",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Khan",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Javed Ahmed",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Ali",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nadeem Shah",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Khan",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khan Farooq",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sophie Malik",
+    "class": "Class E",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zaid Khan",
+    "class": "Class E",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Layla Ahmed",
+    "class": "Class E",
+    "semester": "Semester 3",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Malik",
+    "class": "Class E",
+    "semester": "Semester 4",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class E",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Farooq",
+    "class": "Class E",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Noor Ali",
+    "class": "Class E",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Tariq",
+    "class": "Class E",
+    "semester": "Semester 8",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Ali",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mona Khan",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Ahmed",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Malik",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khan Ahmed",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Laila Tariq",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ammar Khan",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fariha Ahmed",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ahmed",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Ali",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ishaq Khan",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Malik",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Ali",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zain Ali",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fariha Khan",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Tariq",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Malik",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmed Tariq",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Khan",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ali",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nida Ahmed",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sophie Khan",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Javed Malik",
+    "class": "Class C",
+    "semester": "Semester 8",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hadiya Malik",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Muneeb Ali",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Khan",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.70",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Javed Ahmed",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Ali",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nadeem Shah",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Khan",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khan Farooq",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.55",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rashid Ali",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Alina Khan",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hamza Sheikh",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Meher Ali",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Khan",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sadaf Ahmed",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ammar Khan",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sarah Tariq",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saqib Ali",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Farooq",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asad Malik",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Noor Ahmed",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hira Khan",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khalid Ali",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Farooq",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zainab Ali",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmed Khan",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Malik",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Tariq",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Ali",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Tariq",
+    "class": "Class E",
+    "semester": "Semester 1",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Muneeb Ali",
+    "class": "Class E",
+    "semester": "Semester 2",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Malik",
+    "class": "Class E",
+    "semester": "Semester 3",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rida Khan",
+    "class": "Class E",
+    "semester": "Semester 4",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Tariq",
+    "class": "Class E",
+    "semester": "Semester 5",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Shah",
+    "class": "Class E",
+    "semester": "Semester 6",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Ahmed",
+    "class": "Class E",
+    "semester": "Semester 7",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hassan Ali",
+    "class": "Class E",
+    "semester": "Semester 8",
+    "cgpa": "3.50",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aminah Ali",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Imran Khan",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Faisal Ahmed",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Malik",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zainab Tariq",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Ali",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Haris Ahmed",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nadia Khan",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sami Shah",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maira Ahmed",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zeeshan Ali",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Malik",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rania Khan",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Imran Tariq",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saira Ali",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Yasir Khan",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Tariq Ali",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Shah",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Tariq",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maya Ali",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omer Khan",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zara Tariq",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Khan Ali",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Farah Malik",
+    "class": "Class C",
+    "semester": "Semester 8",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sara Tariq",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Haris Khan",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mehmood Ali",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zoya Khan",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sohail Malik",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nazia Ahmed",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aisha Tariq",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Junaid Ali",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hadiya Ali",
+    "class": "Class E",
+    "semester": "Semester 1",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rizwan Khan",
+    "class": "Class E",
+    "semester": "Semester 2",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Javeria Malik",
+    "class": "Class E",
+    "semester": "Semester 3",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Tariq",
+    "class": "Class E",
+    "semester": "Semester 4",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Khan",
+    "class": "Class E",
+    "semester": "Semester 5",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Tariq",
+    "class": "Class E",
+    "semester": "Semester 6",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Ali",
+    "class": "Class E",
+    "semester": "Semester 7",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saba Khan",
+    "class": "Class E",
+    "semester": "Semester 8",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Faisal Tariq",
+    "class": "Class A",
+    "semester": "Semester 1",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rashid Ali",
+    "class": "Class A",
+    "semester": "Semester 2",
+    "cgpa": "2.80",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Ahmed",
+    "class": "Class A",
+    "semester": "Semester 3",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Raza",
+    "class": "Class A",
+    "semester": "Semester 4",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Ali",
+    "class": "Class A",
+    "semester": "Semester 5",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sarah Khan",
+    "class": "Class A",
+    "semester": "Semester 6",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmad Malik",
+    "class": "Class A",
+    "semester": "Semester 7",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zara Tariq",
+    "class": "Class A",
+    "semester": "Semester 8",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nadia Tariq",
+    "class": "Class B",
+    "semester": "Semester 1",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Farhan Khan",
+    "class": "Class B",
+    "semester": "Semester 2",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asma Ali",
+    "class": "Class B",
+    "semester": "Semester 3",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Usman Tariq",
+    "class": "Class B",
+    "semester": "Semester 4",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omar Khan",
+    "class": "Class B",
+    "semester": "Semester 5",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Tariq",
+    "class": "Class B",
+    "semester": "Semester 6",
+    "cgpa": "2.75",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Ali",
+    "class": "Class B",
+    "semester": "Semester 7",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Tariq",
+    "class": "Class B",
+    "semester": "Semester 8",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Tariq",
+    "class": "Class C",
+    "semester": "Semester 1",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fariha Malik",
+    "class": "Class C",
+    "semester": "Semester 2",
+    "cgpa": "3.00",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ammar Khan",
+    "class": "Class C",
+    "semester": "Semester 3",
+    "cgpa": "3.15",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mona Ali",
+    "class": "Class C",
+    "semester": "Semester 4",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ali Khan",
+    "class": "Class C",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Zoya Malik",
+    "class": "Class C",
+    "semester": "Semester 6",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omer Tariq",
+    "class": "Class C",
+    "semester": "Semester 7",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hina Tariq",
+    "class": "Class C",
+    "semester": "Semester 8",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rana Ali",
+    "class": "Class D",
+    "semester": "Semester 1",
+    "cgpa": "3.30",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nazia Ali",
+    "class": "Class D",
+    "semester": "Semester 2",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bilal Tariq",
+    "class": "Class D",
+    "semester": "Semester 3",
+    "cgpa": "3.05",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maira Ali",
+    "class": "Class D",
+    "semester": "Semester 4",
+    "cgpa": "2.95",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Yasir Tariq",
+    "class": "Class D",
+    "semester": "Semester 5",
+    "cgpa": "3.40",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Khan",
+    "class": "Class D",
+    "semester": "Semester 6",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Omer Khan",
+    "class": "Class D",
+    "semester": "Semester 7",
+    "cgpa": "3.25",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saira Tariq",
+    "class": "Class D",
+    "semester": "Semester 8",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Mariam Ali",
+    "class": "Class E",
+    "semester": "Semester 1",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ahmed Malik",
+    "class": "Class E",
+    "semester": "Semester 2",
+    "cgpa": "3.10",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Junaid Tariq",
+    "class": "Class E",
+    "semester": "Semester 3",
+    "cgpa": "2.90",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fatima Khan",
+    "class": "Class E",
+    "semester": "Semester 4",
+    "cgpa": "3.35",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nashit Ali",
+    "class": "Class E",
+    "semester": "Semester 5",
+    "cgpa": "2.85",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hadiya Tariq",
+    "class": "Class E",
+    "semester": "Semester 6",
+    "cgpa": "3.20",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sana Ahmed",
+    "class": "Class E",
+    "semester": "Semester 7",
+    "cgpa": "3.45",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Ayesha Ali",
+    "class": "Class E",
+    "semester": "Semester 8",
+    "cgpa": "3.30",
+    "image": "./r1.png"
   }
 ]
